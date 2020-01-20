@@ -1,3 +1,3 @@
+# Content Here Source Code
 
-source ~/virtualenvs/contenthere/bin/activate
-
+[www.contenthere.net](www.contenthere.net ) is published using the static site generator [Pelican](https://docs.getpelican.com/en/stable/) and a slightly modified version of the [Blue Penguin theme](https://github.com/jody-frankowski/blue-penguin). Python dependencies are managed using [Pipenv](https://github.com/pypa/pipenv).  This is the source code for the posts and the publishing framework.
