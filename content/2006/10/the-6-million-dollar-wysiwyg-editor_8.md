@@ -1,0 +1,13 @@
+Title: The 6 Million Dollar WYSIWYG Editor
+Date: 2006-10-30T19:45:00.002Z
+Modified: 2015-01-06T11:32:47.868Z
+Category: misc
+Tags: Content Modeling, usability, Content Strategy, architecture
+Slug: 2006/10/the-6-million-dollar-wysiwyg-editor_8
+Authors: Seth Gottlieb
+
+Lisa Welchman has a great [post](http://www.cmswatch.com/Trends/773-The-6-Million-Dollar-WYSIWYG-Editor) on CMS Watch Trend Watch that describes the phenomenon of Web Content Management System buyers seeing a CMS as just a wrapper around the WYSIWYG editor.   I can't even begin to say how true that is.  Recently, a client was having his first look at the WCM system that we were  implementing (after not participating in any of the prototyping or reviewing the incremental builds that that we had been doing over several weeks) and he left me a voicemail saying "the administrative interface is all wrong. We have major problems."  As you might expect, I was very concerned.  Anyway, it turned out that all of his issues were around the WYSIWYG editor.  To him, the WYSIWYG editor <span style="font-style: italic;">was</span> the CMS.  It turned out that it was misconfigured and everything is OK now.  Phew!  That would have been bad.  
+  
+Way back when, I remember the debate over WYSIWYG editors between the CM purists and the user facing pragmatists.  The purists didn't want any markup (formatting) in content and the pragmatists were trying to appease users who wanted to make web pages with as much control as writing a document in Microsoft Word.  The [compromise](http://contenthere.blogspot.com/2005/03/wysiwyg-editors.html) was to give users free control over <span style="font-style: italic;">small portions</span> of the page.  However, given the attention that the editors are getting, it appears that the balance is shifting.  
+  
+I think this is natural as WCM goes "down market" to run small web sites that had at one time been just static HTML.  Small websites have fewer authors and less content  so they do not need as much centralized control or content reuse.  Strict adherence to content management best practices is less critical.  All that is needed is a reduced dependence on the HTML literate webmaster.  The CMS  becomes more of an HTML editing and deployment tool.  Ironically, the HTML savvy webmaster that managed the static site frequently becomes the sole user of the CMS.  I would argue that this is not true content management.  But maybe not all CMS buyers need to manage content.  They just need to manage their website.  Still, if you are spending hundreds of thousands on a CMS, presumably you have real content management needs and you should be looking at more than just the WYSIWYG editor.

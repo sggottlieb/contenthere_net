@@ -1,0 +1,11 @@
+Title: Web Content 2007
+Date: 2007-06-21T16:05:00.002Z
+Modified: 2015-01-06T11:32:50.587Z
+Category: misc
+Tags: 
+Slug: 2007/06/web-content-2007_12
+Authors: Seth Gottlieb
+
+On Monday I presented at the [Web Content 2007](http://www.webcontent2007.com/) conference in Chicago.  Congratulations to the guys (and gals)  from [DUO Consulting](http://www.duoconsulting.com/) for putting on a great conference. From talking to folks it looks like this is going to turn into an annual event so mark your calendars for Web Content 2008!  I was only there for the day but the sessions that I attended were really good.  [CMS Wire](http://www.cmswire.com/) had two bloggers (Marisa Peacock and Aaron Bailey) covering the event so you can read their posts there. In the one day I saw [Ann Rockley's](http://www.rockley.com/) [keynote](http://www.cmswire.com/cms/web-content/web-content-2007-driving-customer-relationships-through-web-content-001386.php#more), [Bryant Shea's](http://www.webcontent2007.com/speakers.html#bshea) talk on [user generated content](http://www.cmswire.com/cms/web-content/web-content-2007-when-users-generate-content-001387.php), [David Esrati's](http://thenextwave.biz/main.html) [BlogZilla](http://www.webcontent2007.com/programsDetails.html#blogs) presentation, [Stewart Mader's](http://www.ikiw.org/) [talk on wikis](http://www.cmswire.com/cms/events/web-content-2007-wikis-make-collaboration-easy-001390.php), and [Ståle Eikeri's](http://www.webcontent2007.com/speakers.html#seikeri) discussion of Web 2.0.  As an aside, I saw Stewart 2 days later at the [Enterprise 2.0](http://enterprise2conf.com/) conference in Boston.  I guess I am not the only one with a crazy travel schedule.   
+  
+During lunch, [Howard Tullman](http://www.webcontent2007.com/speakers.html#htullman) was able to overcome the crunching of potato chips to keep the audience engaged in a presentation on driving organizational change.  Based on questions from the audience in all of the sessions, it seemed that many of the attendees were trying to figure out a way to get their organizations to adopt these ideas about using content more effectively.  I hope they got the ammunition that they needed to start initiating better content management practices when they returned to their offices on Wednesday.

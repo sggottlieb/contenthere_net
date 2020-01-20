@@ -1,0 +1,18 @@
+Title: Daisy 2.2 released. Kauri keeping Outerthought busy
+Date: 2008-03-25T07:28:00.001Z
+Modified: 2015-01-06T12:15:38.014Z
+Category: misc
+Tags: localization, daisy
+Slug: 2008/03/daisy-22-released-kauri-keeping_25
+Authors: Seth Gottlieb
+
+[Outerthought](http://outerthought.org) recently announced [version 2.2 of their Daisy CMS platform](http://outerthought.org/blog/index/253-OTC.html).  One of the biggest improvements has been in the area of localization.  Daisy, with its "variants" model, has always been strong in managing multiple language renditions of a content asset.  With 2.2, Daisy has improved the way different translations of a document are kept in sync.  For example, if your native language is English, you may create many incremental English versions of an asset and translate the major versions into the secondary languages.  Daisy 2.2 allows you to map different versions of language variants and shows you when the mapped versions are not in sync.  For a better, more thorough explanation, see Bruno Dumon's [blog post on translation management](http://brunodumon.wordpress.com/2008/01/04/translation-management/).  
+  
+  
+I think that the Daisy 2.2 release has been ready to go for a while but the team has been working on a new web application framework called [Kauri](http://outerthought.org/blog/index/237-OTC.html?branch=1&amp;language=3).  I know what you are thinking: just what the world needs, another web application development framework.  Take comfort in knowing that they are not trying to re-invent everything.  They are re-using what they like but have decided to build their own [runtime](http://kauriproject.org/wiki/g1/58-kauri.html) and their own [template language](http://kauriproject.org/wiki/g1/g1/50-kauri.html).  The runtime is based on a "[Restlet](http://www.theserverside.com/news/thread.tss?thread_id=38290#195808)" (as opposed to servlet) architecture and seems pretty interesting. While servlet based frameworks may be considered to heavy weight for REST style architectures, I think departing from a well known standard (like the Servlet standard) should not be taken lightly. [Noelios](http://www.noelios.com/), the company behind [Restlets](http://www.restlet.org), is intending to take their Restlet API 2.0 through the Java Community Process this year ([see blog post](http://blog.noelios.com/2007/04/25/restlet-api-and-jsr-311-api/)).    
+  
+The creation of a new templating language makes me a little uncomfortable.  While there is really no good standard other than JSP JSTL (not really a templating language in itself) and XSLT (too hard for most to learn), creating a new templating language (or any new language) is the developer equivalent of [jumping the shark](http://en.wikipedia.org/wiki/Jumping_the_shark) - an over the top attempt to break out of the status quo.    
+  
+No templating language is perfect but there is value in working in an imperfect language that you know or that your IDE knows.  Most templating languages go through a natural lifecycle where they start out architecturally pure but limiting (and often a little slow and buggy too), then they achieve stability, then they start to get ruined by the desire add programming capabilities that spoils the separation between layout and business logic.  I would love to see a better standard in this area that will help slow the decay of a good templating language and bring some commonality between content management systems.    
+  
+I will try not to pass judgement on the Kauri template language before I see it and I would love to see something that would make me _want_ to teach it to a creative developer.  I guess you could say that I have a healthy skepticism.

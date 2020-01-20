@@ -1,0 +1,32 @@
+Title: How much technology ownership can you outsource?
+Date: 2009-11-23T09:21:00Z
+Modified: 2015-01-06T12:16:01.131Z
+Category: misc
+Tags: Technical Strategy, commentary, recruiting
+Slug: 2009/11/how-much-technology-ownership-can-you
+Authors: Seth Gottlieb
+
+Over the past few years we have witnessed the transfer of website ownership out of the technology organization and into the department that owns the information.  This has been a positive trend.  While technology is certainly necessary to run a website, what makes a website successful is the content and its ability to communicate to an audience.  Even though most I.T. departments recognize this, they have other systems that compete for enhancement resources and they often find themselves blamed for latency on web initiatives.  Furthermore, technology is an easy scapegoat for more embarrassing organizational deficiencies like not having skilled and motivated contributors.  Removing I.T. from the equation puts power and accountability squarely in the hands of the people who own the content (and the conversation) and removes any and all ambiguity about who to blame when the website fails to produced desired results.  
+  
+As attractive as these outcomes are, transferring ownership is not comfortable.  It puts a business manager into a position that he or she has not been in before: an owner of technology.  Growing up through the ranks of leadership, most managers didn't sign up for planning technology projects,  [directing technical staff](http://www.contenthere.net/2009/03/communicating-across-the-techno-gap.html), or taking shifts on "pager duty."  They purposely avoided a technical career track and neglected to build those skills.  On a good day, they can ignore technology but on a bad day... well, we try not to think about those.  Instinctively, the business manager wants someone who he can shout at (or hover over) until the issue is fixed.  But who is that person and who pays him?  
+  
+The first step is to hire a web development shop (systems integrator) to do the initial implementation.  Even if you are an I.T. organization, I recommend bringing in a systems integrator who has significant experience on the platform you plan to deploy.  These systems are extremely flexible, which means that there are plenty of bad design choices that you can make; you want to work with someone who has ruled out at least a few of them.  But what happens after launch?  An optimistic (naive, really) approach is to believe that, once the system is implemented, business users can just run it themselves.  That doesn't work.  Even if you are lucky enough to have no bugs and contributors that don't make mistakes, a successful web initiative attracts ideas for making it better.  [Ignoring those ideas is demoralizing to the users and causes them to dislike the solution](http://www.contenthere.net/2009/08/dimensions-of-success-or-ways-to-fail.html).  
+  
+In many cases, the business unit will create a retainer relationship with the systems integrator where the system's integrator plays the role of outsourced I.T.  This typically only works when there is an internal staff member who plays the role of "[product manager](http://www.contenthere.net/2009/04/website-product-manager.html)" and directs the external development team.  Otherwise, the relationship can get very costly as hundreds of uncoordinated change requests start to degrade the usability and maintainability of the solution.  It is also costly to have this external partner provide the first line of support.  You don't want to pay consultant rates to triage "the Internet is down" and "I can't find the '_any_' key."  
+  
+If it is critical to the business that the website continually adapt to changing requirements and opportunities, it will expensive to maintain a team of consultants working on an endless enhancement queue.  At some point, it will be cost effective to hire internal development resources to implement routine enhancements (like template changes).  I think that more and more companies are falling into this category.  The web is changing so fast.  You need to try new things and continually improve.  
+  
+Here are some staffing levels to consider:  
+
+  
+ *   __Infrequently changing website: __ one [website product manager](http://www.contenthere.net/2009/04/website-product-manager.html) managing an external developer. The product manager also does training, contributor mentorship, and first line technical support (including pager duty to differentiate between an unplanned outage and "the AOL is broken."). The product manager should also maintain and interpret website analytics reports and [Google Webmaster Tools](https://www.google.com/webmasters/tools).
+  
+ *   __Continually optimized website: __ a website product manager with web developer skills. In this case, the product manager has the skills to reliably execute routine template edits and basic system administration tasks (configuring accounts and roles on the system, unlocking files, etc.). It is a good idea for the third party systems integration company to regularly review new code to suggest refactoring for quality, maintainability, and security. Like with the previous staffing level, the systems integrator is also brought in for larger, more complex enhancement projects.
+  
+ *   __Steadily changing website: __ a website project manager managing an internal web developer. The web developer has solid DHTML development skills and is proficient in the template developing syntax of the WCMS. Like with the previous level, a third party systems integrator does periodic code review and executes larger enhancement projects. The development queue consists of a medium size (3 days to execute) enhancement, plus a steady stream of tweaks.
+  
+ *   __Rapidly changing website: __ when I interviewed publishing companies for my [Web Technologies for Publishers report series,](http://www.contenthere.net/products-page/web-technologies-for-publishers) I learned that most successful web publishing companies had a development team of between 2-5 developers and deployed new code as frequently as once per week. If your business is your website, this is the staffing level that you probably need.
+  
+
+  
+Full outsourcing of all technology knowledge and ownership is not realistic.  At the least, you need to have staff that understand the technology enough to know what to do and how to direct people to do it.  How much you go beyond that depends on how aggressively you need to advance your platform.

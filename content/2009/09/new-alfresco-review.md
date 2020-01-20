@@ -1,0 +1,13 @@
+Title: New Alfresco Review
+Date: 2009-09-14T09:29:00Z
+Modified: 2015-01-06T12:16:00.603Z
+Category: misc
+Tags: reports, alfresco, announcement
+Slug: 2009/09/new-alfresco-review
+Authors: Seth Gottlieb
+
+I am pleased to announce an updated version of my [_Open Source Web Content Management in Alfresco_ report](http://www.contenthere.net/products-page/open-source-content-management-in-java/open-source-content-management-in-alfresco/).  The report evaluates [Alfresco Enterprise 3.1's](http://www.alfresco.com) WCM capabilities for both traditional web publishing and as a framework for building dynamic web applications.  Like all Content Here reports, _Open Source Web Content Management in Alfresco_ is highly technical and gets into details that a potential buyer should know.  In writing the update, I interviewed systems integrators and technology managers from customer companies for their candid opinions of the product and the software vendor.  I have also personally evaluated Alfresco, supporting documentation, and third party books.  I can safely say that you are not going to get a more thorough and unbiased evaluation of Alfresco anywhere — not even if you pay several times the $200 price.  
+  
+Long time readers know that _Open Source Web Content Management Alfresco_ was originally published in February 2008 as part of a larger report called [_Open Source Web Content Management in Java_](http://www.contenthere.net/products-page/open-source-content-management-in-java/open-source-content-management-in-java-bundle/).  Because all of the products reviewed in that report have undergone significant upgrades, I have been selling it at a deep discount.  The front matter that explains the marketplace and significant portions of the evaluations are still accurate and relevant so I have decided to offer a bundled product consisting of the original report plus the updated Alfresco review for $400 — that is still 50% off of the original list price.  As I complete updates to the different reviews, I will add them to the bundle and incrementally raise the price to the original full price.  
+  
+If you are evaluating Alfresco for web content management, save yourself time and reduce your risk buy purchasing _Open Source Web Content Management in Alfresco_.  If you work for a Java shop and are starting to consider open source alternatives to commercially licensed web content management software, consider the [Open Source Web Content Management in Java bundle](http://www.contenthere.net/products-page/open-source-content-management-in-java/open-source-content-management-in-java-bundle/).

@@ -1,0 +1,25 @@
+Title: Homebrew CMS
+Date: 2007-07-22T19:58:00.002Z
+Modified: 2015-01-06T11:32:50.655Z
+Category: misc
+Tags: localization, development, architecture
+Slug: 2007/07/homebrew-cms_88
+Authors: Seth Gottlieb
+
+I have seen (and replaced) enough home-grown content management systems to know that they are not as easy to build as you would think.  As a software architect, I understand the temptation.  You just want something simple and you don't want to put up with all the compromises,  limitations, and cost that a CMS framework comes with.  After all, its just a matter of writing some data to the database and then presenting that same data elsewhere.  We have all designed dozens of systems that do that!  And look!  You can even download a free WYSIWYG editor to make your homebrew CMS usable?  
+  
+But before you go ahead and build the one billion and first CMS, here are some things that typically burn generalist architects when they try to design their first CMS.  
+  
+<span style="font-weight: bold;">Versioning.</span>  Frequently, the single requirement that kills a custom CMS is versioning - especially if it is added in after the initial design.  Versioning is hard.  It is hard because it makes your data model more complicated. It is hard because it is a concept that most generalist architects haven't implemented before.  There are all of these interesting nuances like how often to create a new version (with every save, or every time it is published?) or the need to link to a specific version of an asset or just the latest version.  If you want to get an idea just how hard versioning is, look at [Plone](http://plone.org).  They have been trying to build versioning into the core for years ([see Plone Versioning Mailing list](http://osdir.com/ml/web.zope.plone.versioning/)).  Finally, in the upcoming 3.0 release, Plone will have versioning.  
+  
+<span style="font-weight: bold;">Localization.</span>   Localization isn't just about Unicode.  It is a whole other dimension of of your content repository.  While adding versioning doubles the complexity of a data model, versioning combined with localization makes chaos if you are not careful.  Does each translation have multiple versions?  Or does each version have multiple translations?  What language do you fall back to if you don't have a translation of an asset in the requested language?   What is the relationship between the URLs of the translated sites?  How do your presentation templates handle it when text runs right to left or up and down?    Do all of the attributes of an asset need to be translated or can some things (like images) be shared?  
+  
+<span style="font-weight: bold;">Preview.</span>  Authors love preview.  They like to see what their content is going to look like on the rendered page before everyone else sees it.  The higher the fidelity the preview has, the better.   Sometimes, just looking at the rendered detail page is enough.  Other times, users want to be able to navigate through a full preview environment to see how the asset appears as related links on other pages and even search results.  To deliver serviceable preview, you are going to need different presentation environments and versioning.  Otherwise, every time the user clicks save on a published asset, the live site will update.  
+  
+<span style="font-weight: bold;">Deployment and dependency management.</span>  Content, especially web content is interrelated.  Pages reference images and have links to other pages.  If you are going to deploy a piece of content to the presentation tier, what will you do if the related assets are not ready for publishing and/or not deployed?  Would you even know?   
+  
+<span style="font-weight: bold;">Usability.</span>  While the content management market cannot claim to have mastered usability, they have probably spent more time refining their user interfaces than you can afford to.  Usability is probably the most common reason why companies abandon their home grown CMS.  
+  
+<span style="font-weight: bold;">Access control.</span>  Most software systems are designed to manage access control by function, not by data.  Most (although definitely not all) content management systems have figured out a manageable system for controlling permissions around data.    
+  
+If you are never going to have any of these requirements, go ahead. Write your own CMS.  Just be prepared to throw it away when you grow out of it.  Better yet, use frameworks and components that already deliver these key services.   For example, a JCR compliant content repository will support most of these core repository services (check-in, check-out, versioning, workspaces).  A workflow engine will help you keep ever changing workflow definitions out of your code and in a more manageable definition format.  Also, look at lots of products out there and try to understand the reasons behind their design.  What you see now in these products probably reflects years of evolution driven by requirements that you face now or will someday in the future.

@@ -1,0 +1,19 @@
+Title: Yulup, Meet Yanel
+Date: 2006-12-06T15:51:00.002Z
+Modified: 2015-01-06T11:32:48.233Z
+Category: misc
+Tags: 
+Slug: 2006/12/yulup-meet-yanel_41
+Authors: Seth Gottlieb
+
+While most WCM products and projects are focusing on AJAX technologies to deliver a better editing experience from a browser based interface, there are a couple of projects looking in other directions. Yesterday, [Wyona](http://www.wyona.com/) CEO and [Apache Lenya](http://lenya.apache.org/) Founder, [Michael Wechner](http://www.wyona.com/people/michael-wechner/index.html) showed me a new approach he is working on: [Yulup](http://www.yulup.org/) and [Yanel](http://yanel.wyona.org/). Yulup is a [FireFox](http://www.mozilla.com/en-US/firefox/) plugin that provides editing tools for web assets that have been Yulup enabled. Yanel is a trimmed down CMS interface that Yulup can talk to.  
+
+If a user has Yulup installed, he sees a special icon on the top right of his browser. This icon will indicate if a page is Yulup enabled. If it is, the user will be able to execute actions like checkout, open, save, or whatever else is enabled at the server. Yulup uses FireFox's WYSIWYG HTML editor or more sophisticated users can edit the HTML directly. The demo that I saw had a static HTML website but I could see how this technology would be capable of handling more structured content. Dialog boxes written in [XUL](http://www.mozilla.org/projects/xul/) perform functions like repository browsing and file upload.  
+
+Behind the scenes some interesting architecture is at work. Pages are enabled by adding an XML tag to the content. This tag tells Yulup to ask Yanel for a resource file that tells what actions are enabled. This resource file also maps actions to different URLs and methods. In this way, different content management systems can perform library services such as checkout, check in, add, update, delete, etc. [Neutron](http://neutron.wyona.org/) is the protocol. Michael expressed some regret about not using an existing protocol (Atom and WebDAV were considered) but these didn't have necessary features and it was unlikely that the Yanel/Yulup team would have enough sway to get them added.  
+
+This is still early technology and there are some important features to add. For example, the system needs a more sophisticated security model that limits the available actions <span style="font-style: italic;">before</span> login. Also, details like how to implement versioning and workflow have not yet been fleshed out. You can see the roadmap [here](http://www.yulup.org/en/roadmap/index.html). The long term vision is to Yulup-enable many different CMS and standardize the user interface similar to how the JCR hopes to standardize content storage. As with technologies that threaten to disrupt the status quo, many projects may resist this attempt to hijack the interface and commoditize the CMS. But if this UI works for users (especially users that need to work on different CMS) it may be hard to fight much in the same way that many writers want MS Word or Outlook to be the interface to their ECM systems.  
+
+The other project that is trying to create a universal user interface for content management systems is the [Apogee Project](http://www.eclipse.org/apogee/). They are building content management services on top of the popular open source IDE (Integrated Development Environment) [Eclipse](http://www.eclipse.org/). This project appears to have stalled. I would give it low potential for survival because the project sponsor (Nuxeo) has its hands full porting CPS from Zope to Java and because Eclipse might be too techie for your average content editor. Last I checked, Eclipse was a 100MB+ download and good luck using it if your screen resolution is less than 1600x1200.  
+
+Developers working on a rock-solid CMS with an ugly face (of course, no developer thinks his baby is ugly), may want to check this project out.

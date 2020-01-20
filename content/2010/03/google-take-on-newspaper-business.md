@@ -1,0 +1,11 @@
+Title: Google&#39;s Take on the Newspaper Business
+Date: 2010-03-11T06:38:00Z
+Modified: 2015-01-06T12:16:16.672Z
+Category: misc
+Tags: newsmedia, google
+Slug: 2010/03/google-take-on-newspaper-business
+Authors: Seth Gottlieb
+
+Chief Google Economist, Hal Varian, has an interesting [post about online and offline newspaper economics](http://googlepublicpolicy.blogspot.com/2010/03/newspaper-economics-online-and-offline.html) on the Google Public Policy blog. Most of the ideas will be familiar if you read [Clay Shirky](http://www.shirky.com/): cross-subsidization of the news; specialized sites drawing away ad revenue; relative cost of production.  
+
+One point that I have been hearing less about was that online news consumption tends to be mostly from work while offline newspapers are read at home on leisure time. In itself, this is not a huge insight; all of my news clients know that they get most of their traffic during the workday. What I had not thought about was that reading time at work is significantly more compressed than at home. The article gives statistics of 70 seconds per day online vs. 25 minutes offline — and advertisers pay for a premium for that longer attention span. The article predicts some good news for newspaper publishers: tablets (like the iPad) and other mobile devices (like the Kindle) will increase the at home consumption of the news and lengthen time spent reading. This should even out the disparity between online and offline advertising revenue. I think the accuracy of this prediction will depend on a) whether advertising formats can effectively adapt to and leverage the strengths of mobile devices and b) the advertisers opinion of the value of online advertising changes. As for the latter, advertisers seem to illogically value the immeasurable benefit of print advertising over the more measurable benefit of online advertising. That is, they probably assume print advertising is more effective than it actually is because there are no statistics to limit the perceived value. There are some great posts about how [online advertising is undervalued.](http://radar.oreilly.com/2008/02/online-advertising-undervalued.html). Until this attitude changes, it will be difficult <a "="" 03="" 06="" 2010="" andreessen-media-burn-boats="" href"http:="" techcrunch.com="">for newspapers to burn their boats</a>. 

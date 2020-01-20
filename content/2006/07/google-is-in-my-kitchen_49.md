@@ -1,0 +1,17 @@
+Title: Google is in my kitchen
+Date: 2006-07-24T07:49:00.002Z
+Modified: 2015-01-06T11:32:18.908Z
+Category: misc
+Tags: 
+Slug: 2006/07/google-is-in-my-kitchen_49
+Authors: Seth Gottlieb
+
+I have taken a certain amount of pride in not being swept up in the Google craze. Yes, [Google](http://www.google.com) is the only search engine that I use and when I want to get directions, [maps.google.com](http://maps.google.com) is the URL I enter. However, I have held back from getting a [GMail](http://mail.google.com) account or setting up a Google Calendar. That took a lot of will power last year when people were introducing themselves as "Hi, I am so-and-so, do you want an invitation for a GMail account?"  
+
+What is my beef against the Goog? Nothing really. I have just had the same Yahoo! mail account for 8 years and I can't imagine giving it up. In fact, my loyalty to Yahoo! has become a cornerstone of my thinking about digital businesses. The idea is that you can't compete on functionality because it is less expensive for a competitor to copy your functionality than it was for you to build in the first place. To bring an innovative feature to the market, it takes a lot of design and trial and error. When you copy a feature, you get to learn from your competitors mistakes and take a more direct route to a better solution. What keeps customers is data which translates into switching costs for users.  
+
+Email is particularly interesting because it is not just the inbox. That can be easily imported. It is the entry for you in all your friends and associates address books. So, when you change your email service provider, you have to tell everyone your new address and they have to update your contact information. I know there are services like [Plaxo](http://www.plaxo.com/) but they creep me out too much to use. As an aside, never send out the mail address that comes with your ISP. That will unnecessarily tie you to that ISP even if there is a better option out there. Most of the current [AOL](http://www.aol.com) users that I know don't care for the service but just keep paying AOL to keep their email address. Most colleges and universities have free email forwarding services for alumni. If you are not totally ashamed of your alma mater, you might consider taking advantage of their email forward service.  
+
+So, back to Google. Hell or high water, I am keeping my Yahoo! mail account. But, recently Google has been working its way into my life. I just got another Dell laptop and, what do you know, Google Desktop was pre-installed. In setting up the computer, I anguished for a couple of minutes over whether to uninstall it ("It is going to slow up my machine." "It may help me someday and, besides, I want to know what all the fuss is about.") Google Desktop stayed. Then a colleague from [CM Professionals](http://www.cmprofessionals.org) sent me a link to a [Google Spreadsheet](http://spreadsheets.google.com). Of course, the first step was to create an account.  
+
+At first, I thought the temptation of Google was threatening my data theory. But now I am thinking that it is supporting it. Google is trying to lure me with data that I don't have: indexes of my local files, spreadsheets that my colleagues created. Once they hook me in to registering and using Google tools to collaborate with my colleagues, they will be able to offer me other services. I would have to say it worked. I registered with Google.... Using my Yahoo! mail address ;).
