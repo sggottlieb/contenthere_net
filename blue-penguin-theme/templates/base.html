@@ -42,6 +42,16 @@
     <meta name="generator" content="Pelican" />
     <meta name="description" content="{{ SITEDESCRIPTION }}" />
     <meta name="author" content="{{ AUTHOR }}" />
+
+    <script type="text/javascript">
+        function DoSubmit(){
+        if (document.search.q.value.search("site:") == -1) {
+            document.search.q.value = document.search.q.value + " site:https://www.contenthere.net";
+        }
+        return true;
+    }
+
+    </script>
     {% endblock head %}
 </head>
 <body>
@@ -67,6 +77,12 @@
                 {% endfor %}
             </ul>
         </nav>
+        <div id="search">
+            <form name="search" method="GET" action="https://www.google.com/search" onsubmit="DoSubmit();">
+                <input type="text" name="q" size="30"/>
+                <input type="submit" name="submit" value="search"/>
+            </form>
+        </div>
         {% endif %}
         <div class="header_box">
             <h1><a href="{{ SITEURL }}/">&lt;!-- {{ SITENAME }} --&gt;</a></h1>

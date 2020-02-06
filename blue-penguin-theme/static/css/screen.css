@@ -340,3 +340,27 @@ footer p { margin: 0; }
 .right { float: right; }
 
 .clear { clear: both; }
+
+#search {
+    position: relative;
+    float: right;
+    top: 140px;
+    left: 325px;
+}
+
+input[type=text] {
+    border: 2px solid #DDD;
+    border-radius: 4px;
+  }
+
+input[type=submit] {
+    background-color: #999;
+    border: none;
+    color: white;
+    padding: 2px 10px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
