@@ -9,6 +9,11 @@ from invoke import task
 from invoke.util import cd
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
+from pathlib import PurePath
+from slugify import slugify
+from jinja2 import Template
+
+
 
 SETTINGS_FILE_BASE = 'pelicanconf.py'
 SETTINGS = {}
@@ -104,4 +109,42 @@ def publish(c):
     
     c.run(f"aws s3 sync {SETTINGS['OUTPUT_PATH']} s3://{SETTINGS['S3_BUCKET']} --acl public-read --delete")
     
-    
+@task
+def newpost(c, title, tags):
+    MD_TEMPLATE = \
+"""Title: {{title.replace("\n", " ")}}
+Date: {{publish_date}}
+Modified: {{update_date}}
+Category: misc
+Tags: {{tag_str}}
+Slug: {{path}}.html
+Authors: Seth Gottlieb
+
+"""
+
+
+    dt = datetime.datetime.now()
+    year = dt.strftime("%Y")
+    month = dt.strftime("%m")
+    day = dt.strftime("%d")
+
+    context = {}
+    context["title"] = title
+    context["tag_str"] = tags
+    context["publish_date"] = context["update_date"] = dt.isoformat()
+    path = context["path"] = PurePath(year, month, slugify(title))
+    filepath = str(PurePath("content", path)) + ".md"
+    print(filepath)
+
+    template = Template(MD_TEMPLATE)
+    content = template.render(**context)
+    print(content)
+
+    os.makedirs(os.path.dirname(filepath), exist_ok=True)
+
+    with open(filepath, "w") as f:
+        f.write(template.render(**context))
+
+
+
+
