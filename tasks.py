@@ -117,7 +117,7 @@ Date: {{publish_date}}
 Modified: {{update_date}}
 Category: misc
 Tags: {{tag_str}}
-Slug: {{path}}.html
+Slug: {{path}}
 Authors: Seth Gottlieb
 
 """
