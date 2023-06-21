@@ -17,6 +17,7 @@ RELATIVE_URLS = False
 S3_BUCKET="www.contenthere.net"
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_COPYRIGHT = 'Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1'
 CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
