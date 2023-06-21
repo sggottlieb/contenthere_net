@@ -6,6 +6,8 @@ AUTHOR = 'Seth Gottlieb'
 SITENAME = 'Content Here'
 SITESUBTITLE = 'Where content meets technology'
 SITEURL = 'https://www.contenthere.net'
+COPYRIGHT = 'CreativeCommons'
+
 
 PATH = 'content'
 
@@ -37,7 +39,7 @@ SITEMAP = {
 }
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
+
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
@@ -66,7 +68,7 @@ ARCHIVES_URL       = 'archives/index.html'
 ARCHIVES_SAVE_AS   = 'archives/index.html'
 TAGS_URL           = 'tags/index.html'
 TAGS_SAVE_AS       = 'tags/index.html'
-DISPLAY_FOOTER = False
+DISPLAY_FOOTER = True
 
 PAGINATION_PATTERNS = (
     (1, '{url}/index.html', '{save_as}'),
