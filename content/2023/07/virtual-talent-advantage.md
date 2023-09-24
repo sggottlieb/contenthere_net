@@ -1,0 +1,22 @@
+Title: Virtual Talent Advantage
+Date: 2023-07-29T12:51:44.092503
+Modified: 2023-07-29T12:51:44.092503
+Category: misc
+Tags: management
+Slug: 2023/07/virtual-talent-advantage
+Authors: Seth Gottlieb
+
+With their "return to office" mandates, many companies are signaling an inability to adapt their culture and/or processes to effectively manage a remote workforce. There is a significant population of employees who have thrived while working remotely and are [unwilling or unable to go back to a traditional office setting](https://abcnews.go.com/Business/2000-amazon-workers-walk-after-return-office/story?id=99728398). For example, an employee may live in different part of the world, their commute may be too long, they may need a more flexible workday, an office setting may aggravate mental health issues or subject them to discrimination or biases, they may have a disability and their home office offers better accommodations... the list goes on. This is great news for companies who are able to "crack the virtual code" because the "RTO" trend gives them access to talent that they could not otherwise lure away from "Blue Chip" employers. Many of the people who are searching for remote work are doing so because they perform better remotely and employers will benefit if they can tap into this talent pool. 
+
+So how to crack the code? Here is my quick list of company characteristics that are conducive to supporting a healthy and productive virtual culture. 
+
+* **Aligned Strategy and Goals.** In their book *[Extreme Ownership](https://us.macmillan.com/books/9781250184726/extremeownership),* Jocko Willing and Leif Babin talk about how effective leaders are able to communicate goals, set parameters and expectations, and empower people to execute. It helps for a leader to welcome doubt and an opportunity convince their team on the thinking behind the strategy so team members can make better decisions and align others. When someone believes in the strategy and goals, they become internally motivated to act independently and can adapt to changing information. They don't need as much supervision to get results. They don't go through the motions or waste time on superficial expressions of dedication (like face time in the office).
+* **No Hybrid Teams.** While a company can be "hybrid" (part colocated, part distributed), a team should be either colocated or distributed. Sprinkling remote workers into a colocated team creates communication gaps and unhealthy dynamics. When a team is fully distributed, they use tools and build mechanisms that are optimized for virtual collaboration.   
+* **Content Culture.** Distributed workers can't rely on peers being available to answer questions during every one of their working hours. Instead, they need to be able to rely on "content" (documentation, notes, plans, updates...) that can be shared across space and time. Distributed workers need effective writing skills to produce assets that will become the ground truth and shared understanding of the team. And there needs to be a culture that values the availability and accuracy of documented information. 
+* **Social Effort.** Social connection doesn't necessarily depend on continuous physical proximity. People can coexist for years without even learning each others' names. Whether you are colocated or distributed, you need to intentionally reach out to connect and build trust. When your team is distributed, you need to be more intentional because you don't have constant access to body language and other signals. This includes checking in on each other because silence can mean many things. It's also important to schedule periodic get togethers for team building. Pro-tip: going to a conference with your team is a great way to learn, socialize, and get energized by new ideas. 
+* **Recruit Experience.** Organizations that hire entry level staff and practice "up or out" career management often struggle with the remote model. New graduates need highly visible role models and professional socialization that is harder to get in a remote setting. Coaching needs to be more interactive and personalized. Young professionals also tend to have less of a network or community for emotional support. On the other hand, workers who already have a professional foundation and are looking for remote positions have probably already established family and community that they need to balance with work. 
+
+ 
+
+
+
