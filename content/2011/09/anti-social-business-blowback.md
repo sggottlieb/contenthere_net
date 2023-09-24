@@ -6,7 +6,7 @@ Tags: Social Business, social networking
 Slug: 2011/09/anti-social-business-blowback
 Authors: Seth Gottlieb
 
-A couple of days ago I posted how ["going social" will be difficult for most companies](http://www.contenthere.net/2011/09/social-business-revolution-or-differentiator.html). Then, what do you know, I get a real-life example. Just now, I saw this tweet from Bonnie Smalley, A.K.A. Bonniezilla, formerly the voice of "[Comcast Cares](https://twitter.com/#!/comcastcares)".
+A couple of days ago I posted how ["going social" will be difficult for most companies](/2011/09/social-business-revolution-or.html). Then, what do you know, I get a real-life example. Just now, I saw this tweet from Bonnie Smalley, A.K.A. Bonniezilla, formerly the voice of "[Comcast Cares](https://twitter.com/#!/comcastcares)".
 
   
 

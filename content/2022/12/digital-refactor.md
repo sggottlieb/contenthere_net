@@ -2,7 +2,7 @@ Title: Digital Refactor
 Date: 2022-12-17T19:52:37
 Modified: 2022-12-17T19:52:37
 Category: misc
-Tags: test
+Tags: Social Networking
 Slug: 2022/11/digital-refactor
 Authors: Seth Gottlieb
 
