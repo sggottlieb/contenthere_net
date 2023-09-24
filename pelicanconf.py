@@ -45,6 +45,8 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+FEED_COPYRIGHT = 'Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1'
+
 # Blogroll
 #LINKS = (,)
 
