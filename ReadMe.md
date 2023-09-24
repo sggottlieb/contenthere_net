@@ -9,7 +9,7 @@ make publish
 
 # Creates new post
 
-invoke newpost 
+invoke newpost --title "The title of the post" --tags "Tag 1, Tag2"
 
 # Syncs to server
 
