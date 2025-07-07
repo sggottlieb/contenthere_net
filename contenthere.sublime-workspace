@@ -1,0 +1,203 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inline"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sgottlieb/projects/personal/contenthere.net",
+		"/Users/sgottlieb/projects/personal/contenthere.net/output"
+	],
+	"file_history":
+	[
+		"/Users/sgottlieb/projects/personal/contenthere.net/pelicanconf.py",
+		"/Users/sgottlieb/projects/personal/contenthere.net/all.atom.xml",
+		"/Users/sgottlieb/projects/personal/contenthere.net/content/extras/robots.txt",
+		"/Users/sgottlieb/2023-conv.txt",
+		"/Users/sgottlieb/projects/personal/contenthere.net/content/2023/11/daily-journal-experiment.md",
+		"/Users/sgottlieb/projects/personal/contenthere.net/output/2011/09/social-business-revolution-or.html",
+		"/Users/sgottlieb/projects/personal/contenthere.net/content/2011/09/anti-social-business-blowback.md",
+		"/Users/sgottlieb/projects/personal/contenthere.net/content/2023/09/twitter-archive-unboxing.md",
+		"/Users/sgottlieb/projects/personal/contenthere.net/content/2022/12/digital-refactor.md",
+		"/Users/sgottlieb/Downloads/twitter-2023-09-03-d4dd182224b13559c5e5c55a0a4b0eb2fc2a2a302dbb8f621fa8d2ae168d4cdf/data/tweets.js",
+		"/Users/sgottlieb/.local/share/virtualenvs/contenthere.net-xyFtN2qW/lib/python3.10/site-packages/pelican/writers.py",
+		"/Users/sgottlieb/projects/personal/pelican/pelican/writers.py",
+		"/Users/sgottlieb/projects/personal/contenthere.net/.gitignore",
+		"/Users/sgottlieb/projects/personal/contenthere.net/content/2023/05/penetration-rate.md",
+		"/Users/sgottlieb/projects/personal/contenthere.net/content/2023/03/follow-your-shot.md",
+		"/Users/sgottlieb/projects/personal/contenthere.net/content/2023/04/title-decisions.md",
+		"/Users/sgottlieb/projects/personal/contenthere.net/ReadMe.md",
+		"/Users/sgottlieb/projects/personal/contenthere.net/content/2023/02/your-first-metric-retention-rate.md",
+		"/Users/sgottlieb/projects/personal/contenthere.net/content/2023/02/title-your-first-metric-retention-rate.md",
+		"/Users/sgottlieb/projects/personal/contenthere.net/blue-penguin-theme/templates/base.html",
+		"/Users/sgottlieb/projects/personal/contenthere.net/content/2023/01/be-even-better.md",
+		"/Users/sgottlieb/projects/personal/contenthere.net/feed.atom",
+		"/Users/sgottlieb/projects/personal/contenthere.net/content/2022/11/digital-refactor.md"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"*.py"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"robots",
+			"FILES",
+			"STATIC",
+			"images"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "contenthere.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
